@@ -1,3 +1,5 @@
+edit for workflow
+
 # WakaTime to Toggl
 
 [![Build Status](https://flat.badgen.net/github/checks/bokub/wakatime-to-toggl?label=build)](https://github.com/bokub/wakatime-to-toggl/actions/workflows/run.yml?query=branch%3Amaster)
