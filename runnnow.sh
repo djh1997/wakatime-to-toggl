@@ -6,10 +6,10 @@ npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 4
 npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 5
 npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 6
 npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 7
-npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 8
-npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 9
-npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 10
-npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 11
-npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 12
-npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 13
-npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 14
+#npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 8
+#npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 9
+#npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 10
+#npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 11
+#npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 12
+#npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 13
+#npx wakatime-to-toggl -t $TOGGL_API_KEY -w $WAKATIME_API_KEY -d 14
